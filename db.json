@@ -1,0 +1,107 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Get access to UTM tags",
+      "status": "todo",
+      "assignees": [
+        "Jules"
+      ],
+      "tags": [
+        "To Do",
+        "B-1728"
+      ],
+      "dueDate": "Jan 10"
+    },
+    {
+      "id": "2",
+      "title": "Provide access to GitHub",
+      "status": "done",
+      "assignees": [
+        "Jules"
+      ],
+      "tags": [
+        "Done",
+        "B-2113"
+      ]
+    },
+    {
+      "id": "cda14ae4-4dd5-4d70-a093-c41e8f3e91c2",
+      "title": "gre",
+      "description": "reg",
+      "status": "todo",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "erg"
+      ],
+      "dueDate": "2025-04-18"
+    },
+    {
+      "id": "5b4c1100-c058-42e1-8f97-c1e74bbbcafd",
+      "title": "aaaaa",
+      "description": "rgwegr",
+      "status": "inProgress",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "gwerg"
+      ],
+      "dueDate": "2025-04-24"
+    },
+    {
+      "id": "82ec427e-9df4-45c2-885e-53daa832e16b",
+      "title": "tarea",
+      "description": "dehre",
+      "status": "inProgress",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "juan"
+      ],
+      "dueDate": "2025-04-11"
+    },
+    {
+      "id": "6108dd68-ecde-40a5-9543-c621f54c765b",
+      "title": "api",
+      "description": "CREAR API",
+      "status": "done",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "JERRY"
+      ],
+      "dueDate": "2025-04-30"
+    },
+    {
+      "id": "b55c4679-3e8c-4721-bd03-802ec871d349",
+      "title": "titulo",
+      "description": "Descripcion",
+      "status": "inProgress",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "ana"
+      ],
+      "dueDate": "2025-04-12"
+    },
+    {
+      "id": "20becd8d-d7f4-4684-8c1d-a110696489bd",
+      "title": "crear crud",
+      "description": "react",
+      "status": "done",
+      "tags": [
+        "To Do"
+      ],
+      "assignees": [
+        "juan"
+      ],
+      "dueDate": "2025-04-12"
+    }
+  ]
+}
