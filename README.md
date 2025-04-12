@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+ link video : https://youtu.be/3b6wVLNstO0
 ## Getting Started
 
 First, run the development server:
@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+too  you need run first
+npm run server
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
